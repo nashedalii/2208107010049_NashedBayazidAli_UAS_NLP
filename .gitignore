@@ -1,0 +1,6 @@
+.env
+whisper.cpp/
+coqui_utils/
+__pycache__/
+chat_history.json
+.vs
